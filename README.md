@@ -1,2 +1,2 @@
 # MealRoulette
-Meals from api and their details
+List meals and details from api
